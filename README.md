@@ -22,3 +22,8 @@ Métodos:
 Funciones de clase, cada tipo de variable incluye unas funciones asociadas a ella desde su definición. 
 
 Ejemplo: x.__add__(10) 
+
+
+---- Diccionario --------------------
+
+diccionario = ('uno': x, 'dos': x.__add__(10));
